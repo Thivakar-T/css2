@@ -1,0 +1,321 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background-color: rgb(29, 41, 48);
+    color: white;
+}
+.header{
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    letter-spacing: 2px;
+    font-size: 33px;
+    color:rgb(58, 57, 57);
+    background-color: white;
+}
+.goon{
+    display: flex;
+    padding: 0px 50px 0px 0px;
+}
+.goon1{
+    width: 20%;
+    background-color: rgb(42, 107, 228);
+    height:850px;
+    margin-left: 40px;
+    flex:5%;
+}
+.blue{
+    background-color: rgb(42, 107, 228);
+    color: white;
+    padding-left:80px ;
+    padding-top:220px ;
+    letter-spacing: 1px;
+    font-size: 22px;
+}
+.blue1{
+    font-size: 12px;
+    background-color: rgb(42, 107, 228);
+    color: white;
+    padding-left:65px ;
+    padding-top:10px ;
+}
+.blue2{
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(12, 47, 163);
+    margin: 40px -10px 0px 0px;
+    padding:15px 0px 15px 0px;
+    text-align: center;
+    font-weight: bold;
+}
+.blue3,.blue4,.blue5{
+    font-size: 18px;
+    background-color: rgb(42, 107, 228);
+    color: white;
+    padding-top:15px ;
+    padding-bottom: 15px;
+    text-align: center;
+    font-weight: 100;
+}
+.icon{
+    display: flex;
+    clear: both;
+    flex-wrap: nowrap;
+    width: 150px;
+    height: 50px;
+    margin: 40px 0px 40px 40px;
+    background-color: rgb(42, 107, 228);
+    text-align: center;
+}
+.fab{
+    font-weight: 400;
+}
+.blue6{
+    background-color: rgb(42, 107, 228);
+    text-align: center;
+    padding: 40px 0px 0px 0px;
+    line-height: 1.6;
+    font-size: 14px;
+}
+i{
+    background-color: rgb(8, 69, 184);
+}
+.ib{
+    background-color: rgb(162, 167, 233);
+}
+.i1{
+    padding: 10px;
+    width: 40px;
+    height: 17px;
+    background-color: rgb(8, 69, 184);
+    margin-left: 5px;
+    text-align: center;
+}
+.i2{
+    padding: 8px;
+    width: 40px;
+    height: 20px;
+    margin-left: 5px;
+    text-align: center;
+    background-color: rgb(8, 69, 184);
+}
+.i3{
+    padding: 8px;
+    width: 40px;
+    height: 20px;
+    margin-left: 5px;
+    text-align: center;
+    background-color: rgb(8, 69, 184);
+}
+.i4{
+    padding:8px;
+    width: 40px;
+    height: 20px;
+    margin-left: 5px;
+    text-align: center;
+    background-color: rgb(8, 69, 184);
+}
+.i5{
+    padding:8px;
+    width: 40px;
+    height: 20px;
+    margin-left: 5px;
+    text-align: center;
+    background-color: rgb(8, 69, 184);
+}
+}
+.fa{
+    font-weight: 900;
+}
+.img1{
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-left: 80px;
+    float: left;
+    background-color: rgb(42, 107, 228);
+}
+.goon2{
+    width: 70%;
+    float:left;
+    flex:5;
+    margin-left: 50px;
+}
+h3{
+    color: white;
+    font-size: 26px;
+}
+.img2{
+    width: 930px;
+    height: 350px;
+}
+.intro{
+    padding: 30px 0px 15px 0px;
+}
+.blue8{
+    padding-top: 10px;
+    font-size: 14px;
+}
+.red1{
+    padding-top: 40px;
+    padding-bottom: 50px;
+    margin-bottom: 10px;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.img3{
+    float: right;
+    width: 250px;
+    height: 280px;
+    border-radius: 8px;
+    margin-right: 30px;
+}
+.red2{
+    font-size:15 ;
+    padding-top: 30px;
+}
+button{
+    background-color: white;
+    padding: 10px;
+    color: rgb(96, 71, 240);
+    border: 1px solid white;
+    margin-top: 25px;
+    font-weight: 800;
+}
+.img4 {
+    float: left;
+    width: 250px;
+    height: 250px;
+    margin-right: 30px;
+    border-radius: 5px;
+}
+.green{
+    margin-top: 60px;
+}
+.green1{
+    font-size:15 ;
+    padding-top: 30px;
+}
+.comhr{
+    border:1.5px solid white;
+    width: 50%;
+    margin: 20px 0px 20px 0px;
+}
+.greenb{
+    float: left;
+    clear: both;
+    margin-bottom: 50px;
+}
+.white{
+    padding-top: 50px;
+}
+.four{
+    margin-top: 35px;
+}
+.ser{
+    margin-left: 60px;
+}
+.top{
+    background-color: rgb(162, 167, 233);
+    padding: 50px 0px 0px 0px;
+}
+.five{
+    clear: both;
+    padding: 20px 0px 0px 0px;
+    margin-bottom: 400px;
+}
+.quick{
+    margin-left: 60px;
+}
+.fat{
+    padding: 60px 100px 100px 60px;
+    background-color: rgb(162, 167, 233); 
+    float: left; 
+}
+.main{
+    font-size: 14px;
+    background-color: rgb(162, 167, 233);
+    padding: 20px 0px 0px 0px;
+    line-height: 1.6;
+}
+.ink{
+    float: left;
+    padding: 30px 0px 40px 10px ;
+}
+.ki{
+    text-decoration: underline;
+    color: darkblue;
+}
+.gal{
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+.con{
+    margin-top: 30px;
+}
+form{
+    margin: 30px 0px 30px 0px;
+    border-color: cornsilk;
+}
+#fname{
+    padding: 10px 0px 10px 10px;
+    background-color: rgb(162, 167, 233);
+    float: left;
+    width: 45%;
+    border: 1px solid white;
+}
+#email{
+    padding: 10px 0px 10px 10px;
+    background-color: rgb(162, 167, 233);
+    float: left;
+    width: 45%;
+    border: 1px solid white;
+    margin-left: 30px;
+}
+#jec{
+    padding: 10px 0px 10px 10px;
+    background-color: rgb(162, 167, 233);
+    border: 1px solid white;
+    float: left;
+    width: 94%;
+    clear: both;
+    margin-top: 20px;
+}
+#subject{
+    clear: both;
+    width: 92%;
+    height: 150px;
+    background-color: rgb(162, 167, 233);
+    margin-top: 20px;
+    float: left;
+    border: 1px solid white;
+    padding: 10px 10px 10px 20px;
+}
+#submit{
+    clear: both;
+    float: left;
+    background-color: rgb(246, 247, 250);
+    padding: 15px 30px 15px 30px;
+    color: rgb(61, 61, 248);
+    border: 1px solid white;
+    margin: 20px 0px 140px 400px;
+    font-weight: 700;
+    font-size: 14px;
+}
+.image,.image1{
+    margin: 10px;
+    border-radius: 5px;
+}
+.img20,.img30,.img50,.img60{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.img50{
+    margin-top: -210px;
+}
+#img{
+    border-radius: 5px;
+}
